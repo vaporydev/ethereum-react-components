@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/ethereum/ethereum-react-components.svg?style=shield)](https://circleci.com/gh/ethereum/ethereum-react-components)
 
-# Ethereum React Components
+# Vapory React Components
 
 A library of frequently used Ethereum components.
 
